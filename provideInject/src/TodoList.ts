@@ -1,7 +1,7 @@
-import { Entry } from './Entry.ts';
+import { Entry } from "./Entry";
 
 export interface TodoList {
-   title: string;
-   id: string;
-   entries: Entry[];
+    title: string;
+    id: string;
+    entries: Entry[];
 }
