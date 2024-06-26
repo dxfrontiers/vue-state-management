@@ -4,4 +4,4 @@ In this repository you find all 3 examples of the app demonstrating different wa
 2. Using prop drilling
 3. Using provide inject
 
-This repo is part of the blog post on [Vue state management](https://www.blog.com)
+This repo is part of the blog post on [Vue state management](https://medium.com/digitalfrontiers/state-management-in-vue-js-spas-2be5b7a7920d)
